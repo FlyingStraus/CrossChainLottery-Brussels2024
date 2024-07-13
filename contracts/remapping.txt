@@ -1,2 +1,1 @@
-@openzeppelin=/openzeppelin-contracts
-@chainlink=/chainlink
+@openzeppelin/=openzeppelin-contracts
